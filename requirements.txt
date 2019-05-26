@@ -10,3 +10,5 @@ requests
 boto3
 awscli
 PyYAML<=3.13,>=3.10
+xgboost
+sklearn
